@@ -1,5 +1,7 @@
 # spring-boot-docker-mysql
-Demo Spring Boot application running inside docker container linked with MySQL container
+Demo Spring Boot application running inside docker container linked with MySQL container.
+
+See my [blog post about it](https://github.com/jiwhiz/spring-boot-docker-mysql/wiki/home).
 
 ## How to run it with Docker
 Assume you already have Docker installed. See https://docs.docker.com/installation/.
